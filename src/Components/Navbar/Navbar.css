@@ -1,0 +1,39 @@
+
+
+.Navbar_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: skyblue;
+    padding: 8px 12px;
+}
+.navbar_left > img{
+    height: 50px;
+    width: 100px;
+    aspect-ratio: 1/1.25;
+}
+.navbar_left_logo{
+    font-size: 20px;
+    font-weight: 800;
+}
+.navbar_menu > a{
+    margin: 4px;
+    margin-left: 28px;
+    padding: 4px;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    /* padding: 8px 12px; */
+}
+
+
+.navbar_menu > a:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+html{
+    scroll-behavior: smooth;
+}

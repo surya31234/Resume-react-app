@@ -1,0 +1,36 @@
+.cards > img{
+    width: 80%;
+    aspect-ratio: 3/2;
+    border-radius: 8px;
+}
+
+.projectcard_container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* background-color: pink; */
+    margin: 10px;
+    width: 48%;
+    border-radius: 4px;
+}
+
+.cards{
+    background-color: rgb(74, 183, 226);
+    margin: 5px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family: cursive;
+    border-radius: 8px;
+}
+.cards_data{
+    text-align: justify;
+}
+
+
+.cards *{
+    margin: 5px;
+}

@@ -1,0 +1,28 @@
+
+.contact_container{
+    margin-bottom: 10px;
+}
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+    border-radius: 8px;
+    margin: 10px;
+}
+#form1{
+    margin: 20px;
+    background-color: lightskyblue;
+    color: #000;
+    border-radius: 8px;
+}
+#form1 *{
+    margin: 5px;
+    padding: 2px 4px;
+}
+#form1 > label{
+    font-weight:600;
+    border-radius: 8px;
+    font-size: 20px;
+}

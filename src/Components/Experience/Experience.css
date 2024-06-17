@@ -1,0 +1,22 @@
+
+.experience_container{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+.experience_title{
+    font-size: 48px;
+    font-weight: 600;
+}
+.experience_card_box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    margin: 10px;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,25 @@
+
+.projects_container{
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.project_title{
+    font-size: 48px;
+}
+.project_card_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.project_cards{
+    width: 50vh;
+    margin: 2px;
+    background-color: tomato;
+}
+
+.project_card_container{
+    /* background-color: aqua; */
+    width: 90%;
+}

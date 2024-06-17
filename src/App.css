@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  .app{
+  background-color: #000;
+  /* padding: 0 %; */
+  height: 100vh;
+  /* border-radius: 8px; */
+  /* width: 100vh; */
+}
+
+.header{
+  margin: 0 4%;
+  padding: 0 4%;
+  /* background-color: rgb(163, 219, 241); */
+  border-radius: 8px;
+  /* border-bottom-left-radius: 45%; */
+  /* border-bottom-right-radius: 45%; */
+  height: 70vh;
+}
+.aboutsection{
+  background-color: rgb(74, 183, 226);
+}
+.main{
+  padding: 0 9%;
+  /* background-color: rgb(74, 183, 226); */
+  background-color: #000;
+  color: #fff;
+}
