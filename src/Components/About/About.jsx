@@ -1,6 +1,6 @@
 
 import './About.css'
-import react_img from '../../assets/DSC_6801.jpg'
+import react_img from '../../assets/profile.jpeg'
 
 export default function About(){
     return(
@@ -8,7 +8,7 @@ export default function About(){
             <div className="About_left">
                 <p className="about_left_title specify">Hello</p>
                 <div className="about_left_desc">
-                    <p> I am <span className='specify'>Prashant Swami</span>
+                    <p> I am <span className='specify'>Surya Kant</span>
                     </p>
                     <div className="about_left_description">Student at <span className="specify">Lovely Professional University</span>
                     <br />

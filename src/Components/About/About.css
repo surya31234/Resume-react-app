@@ -35,8 +35,8 @@
     /* background-color: aquamarine; */
 }
 .About_right > img{
-    height: 400px;
-    aspect-ratio: 1/1/5;
+    height: 200px;
+    aspect-ratio: 3/2;
     border-radius: 8px;
     transition: transform 1s ease-in;
 }

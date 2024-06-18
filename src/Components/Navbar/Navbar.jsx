@@ -6,7 +6,7 @@ export default function Navbar(){
         <div className="Navbar_container">
             <div className="navbar_left">
                 {/* <img src={logo} alt="logo" /> */}
-                <p className='navbar_left_logo'>PRASHANT</p>
+                <p className='navbar_left_logo'>SK</p>
             </div>
             <div className="navbar_right">
                 <div className="navbar_menu">
