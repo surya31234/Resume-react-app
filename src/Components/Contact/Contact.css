@@ -7,14 +7,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: lightblue;
+    /* background-color: lightblue; */
+    color: whitesmoke;
     border-radius: 8px;
     margin: 10px;
 }
 #form1{
     margin: 20px;
-    background-color: lightskyblue;
-    color: #000;
+    /* background-color: lightskyblue; */
+    color: whitesmoke;
     border-radius: 8px;
 }
 #form1 *{
@@ -25,4 +26,11 @@
     font-weight:600;
     border-radius: 8px;
     font-size: 20px;
+}
+#form1 > button{
+    background-color: greenyellow;
+    height: 2em;
+    width: 5em;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
